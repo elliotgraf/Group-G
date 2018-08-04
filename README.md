@@ -1,5 +1,5 @@
 Group-G
-Team G Project 1 Charter						August 4, 2018
+Project 1 Charter						August 4, 2018
 	
 
 Team Members(MW):   Elliot Graf, Larry VonDracek II, Bill
