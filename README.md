@@ -34,7 +34,10 @@ Does the "infield shift" have an impact on baseball?
 Null Hypothesis:   The "infield shift" has no affect on baseball.
 
 References:
-Article:  Rob Arthur and Ben Lindbergh, "Yes, The Infield Shift Works. Probably." JUN. 30, 2016,
+Article: Mike Petriello, "9 things you need to know about the shift", May 16th, 2018
+https://www.mlb.com/news/9-things-you-need-to-know-about-the-shift/c-276706888
+
+Article Rob Arthur and Ben Lindbergh, "Yes, The Infield Shift Works. Probably." JUN. 30, 2016,
 https://fivethirtyeight.com/features/yes-the-infield-shift-works-probably/
 
 Wikipedia, "Infield Shift," https://en.wikipedia.org/wiki/Infield_shift
