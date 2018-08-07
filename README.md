@@ -30,7 +30,7 @@ Data Shortcomings:
 1.	No known specific “infield shift” statistics exist
 2.	No known data comparisons for “infield shift.”
 
-Null Hypothesis:
+Hypothesis:
 Does the "infield shift" have an impact on baseball?
 Null Hypothesis:   The "infield shift" has no affect on baseball.
 
