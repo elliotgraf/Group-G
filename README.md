@@ -14,6 +14,7 @@ Background:  The infield shift is a generic term used in baseball to describe a 
 Data Sources:  
 sportradar API - https://www.sportradar.com/
 Data World baseball csv - https://data.world/mike-p/baseball-data-from-lahman-dataset-2018
+Fangraph - https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=0&season=2017&month=61&season1=2014&ind=0&team=0,ts&rost=0&age=0&filter=&players=0
 
 3-5 Initial Research Questions:
 1.	Are teams scoring more runs since the “infield shift” become popular in year (XXXX)?
