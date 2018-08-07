@@ -17,7 +17,7 @@ Data World baseball csv - https://data.world/mike-p/baseball-data-from-lahman-da
 Fangraph - https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=0&season=2017&month=61&season1=2014&ind=0&team=0,ts&rost=0&age=0&filter=&players=0
 
 3-5 Initial Research Questions:
-1.	Are teams scoring more runs since the “infield shift” become popular in year (XXXX)?
+1.	Are teams scoring more runs since the “infield shift” become popular in year (2010-2017)?
 2.	Has the “infield shift” effected bunting %?
 3.	Has the “infield shift” effected number of hits?
 
