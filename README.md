@@ -28,3 +28,13 @@ Techniques & Tools:
 Data Shortcomings:
 1.	No known specific “infield shift” statistics exist
 2.	No known data comparisons for “infield shift.”
+
+Null Hypothesis:
+Does the "infield shift" have an impact on baseball?
+Null Hypothesis:   The "infield shift" has no affect on baseball.
+
+References:
+Article:  Rob Arthur and Ben Lindbergh, "Yes, The Infield Shift Works. Probably." JUN. 30, 2016,
+https://fivethirtyeight.com/features/yes-the-infield-shift-works-probably/
+
+Wikipedia, "Infield Shift," https://en.wikipedia.org/wiki/Infield_shift
